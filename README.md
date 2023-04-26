@@ -23,7 +23,7 @@
 <h2> POST method Check for incomplete data.
 <br><br>
 
-
+![missing parameters](https://user-images.githubusercontent.com/122386488/234482810-9101b5dd-ca21-4689-a5e5-8c4ab72d869b.png)
 <br><br>
 
 <h2> POST method inserting new user.
