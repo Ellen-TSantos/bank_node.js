@@ -11,6 +11,8 @@
 <h2> GET method returning list of users.
 <br><br>
 
+![get](https://user-images.githubusercontent.com/122386488/234482209-8ba20bf9-fd8f-435f-b1e0-89fc945ccfff.png)
+
 
 <br><br>
 
